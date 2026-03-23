@@ -34,13 +34,10 @@ OpenClaw 是一款可在自有设备上部署运行的**个人 AI 助手**，能
 
 **推荐部署方式**：在终端中执行 `openclaw onboard` 命令。OpenClaw 新手指引工具会逐步引导你完成网关、工作区、通讯渠道和技能的配置，是官方推荐的命令行部署方式，支持**macOS、Linux 和 Windows（强烈推荐通过 WSL2 运行）** 系统，兼容 npm、pnpm 或 bun 包管理器。首次安装？从这里开始：[快速上手](https://docs.openclaw.ai/start/getting-started)
 
-## 赞助方
+## 个人说明
 
-表格
+![zxsq](https://github.com/user-attachments/assets/c65ab90f-d10c-402c-8372-e15c8887aa2e)
 
-| 开放人工智能 | 维尔塞尔 | 铁匠科技 | 凸面科技 |
-| :--- | :--- | :--- | :--- |
-|  |  |  |  |
 
 **订阅服务（OAuth 授权）**：
 
